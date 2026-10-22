@@ -31,6 +31,7 @@ to secure architecture design. I also build roadmaps, labs and study material fo
 - **AppSec & Offesc** 
 - **SecOps & DevOps**
 - **GRC & Treinamento**
+- **IA & ML**
 - **Professor de graduação** 
 - **Labs & conteúdo** 
 
